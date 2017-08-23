@@ -1,0 +1,25 @@
+
+body {
+	width:400px; 
+	margin:0 auto; 
+	background: url(bg.jpg) no-repeat center center fixed; 
+	background-size: cover;}
+
+
+#tiy1s {
+	display: block; 
+	float: left; 
+	width: 150px; 
+	padding: 0 10px; 
+	margin: 18px 0 0; 
+	text-align: right; 
+	-webkit-box-shadow: 5px -15px 5px 0px rgba(0,0,0,0.57); 
+	-moz-box-shadow: 5px -15px 5px 0px rgba(0,0,0,0.57); 
+	box-shadow: 5px -15px 5px 0px rgba(0,0,0,0.57);}
+
+.item{
+	float: left;
+}
+.items {
+	width: 100%; 
+}
